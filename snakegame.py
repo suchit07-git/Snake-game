@@ -1,3 +1,5 @@
+#Credits : Edureka
+
 import pygame
 import time
 import random
